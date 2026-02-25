@@ -68,7 +68,7 @@ nav {
 }
 
 .hero-content {
-    max-width: 120rem;
+    max-width: 92rem;
     margin: auto;
     padding: 2rem 1rem 2rem 1rem;
     display: flex;
@@ -79,6 +79,7 @@ nav {
 /* TEXTO */
 .hero-text {
     flex: 1;
+    text-align: center;
 }
 
 .hero-text h1 {
